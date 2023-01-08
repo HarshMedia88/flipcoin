@@ -1,5 +1,10 @@
 # React Assignment (Flip Coin)
 
+## Technical Details
+
+1. Used styled components for css
+2. Added testcase to test helper function to test the number of sample spaces.
+
 ## Available Scripts
 
 In the project directory, you can run:
